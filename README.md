@@ -1,5 +1,4 @@
-<img width="1101" height="614" alt="_Hey There!, I am Branko Jovanovski" src="https://github.com/user-attachments/assets/7e6e4f24-97ac-4451-853d-8c5ec4746899" />
-
+<img width="1101" height="614" alt="m" src="https://github.com/user-attachments/assets/5aadc4ed-0962-4efe-85d2-74ec49b8aa80" />
 
 ## Hi there 👋
 
