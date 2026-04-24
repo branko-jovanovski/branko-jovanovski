@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39FF14&width=435&lines=%3E+Hey+There!%2C+I+am+Branko+Jovanovski)](https://git.io/typing-svg)
+<img width="1101" height="614" alt="_Hey There!, I am Branko Jovanovski" src="https://github.com/user-attachments/assets/7e6e4f24-97ac-4451-853d-8c5ec4746899" />
+
+
 ## Hi there 👋
 
 <!--
